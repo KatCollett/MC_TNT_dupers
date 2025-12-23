@@ -1,0 +1,3 @@
+There is 1 unstable TNT duper. I am defining unstable as the design will break if certen blocks recive a block update.
+
+This design produces 8TNT/3gt. It has a volume of 1x5x15. It uses coral to update the TNT. The design uses minecarts on detector rails to BUD the TNT.
