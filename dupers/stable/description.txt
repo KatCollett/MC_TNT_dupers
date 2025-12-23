@@ -1,0 +1,7 @@
+There are 2 stable TNT dupers. I am defining stable as updating any block while inactive will not break it.
+
+  The first design has a speed of 8TNT/3gt. It has a volume of 3x3x15. Coral is used to update the TNT.
+
+  The second design has a speed of 11TNT/3gt. It has a volume of 4x4x15. A snowgollem is on the end TNTs. This snow gollem places snow, which gets broken as the blocks are pushed. This updates a noteblock BUD, updating the TNT.
+
+    Both use dust redirection to BUD the TNT
