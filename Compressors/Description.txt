@@ -1,0 +1,3 @@
+There is one compressor design.
+
+The compressor uses the stable 8TNT/3gt duper. It is 4x24x15 in volume. The TNT are split into two groups because pistons can manage a max. of 6gt batches. Then slimeblocks launch the TNT twords a wall. The groups are recombined and slowed down by powdered snow. The tnt finally fall into water where a trapdoor prevemts the TNT from influencing other batches.
